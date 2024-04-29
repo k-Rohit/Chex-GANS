@@ -44,6 +44,10 @@ These notebooks provide step-by-step implementations of the respective GAN archi
   </tr>
 </table>
 
+## Wasserstein GANs (WGANs)
+
+
+
 ## Getting Started
 
 ### Prerequisites
