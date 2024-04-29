@@ -30,6 +30,10 @@ This repository contains Jupyter notebooks for each of the three GAN architectur
 
 These notebooks provide step-by-step implementations of the respective GAN architectures along with training and evaluation procedures.
 
+## Results - 
+
+
+
 ## Getting Started
 
 ### Prerequisites
