@@ -46,6 +46,12 @@ These notebooks provide step-by-step implementations of the respective GAN archi
 
 ## Wasserstein GANs (WGANs)
 
+<table>
+  <tr>
+    <td><img src="https://github.com/k-Rohit/Chex-GANS/assets/93335681/ddf4388a-fe86-40df-b726-c0890643a53a">  </td>
+  </tr>
+</table>
+
 
 
 ## Getting Started
