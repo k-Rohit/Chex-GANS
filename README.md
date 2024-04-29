@@ -20,6 +20,16 @@ Wasserstein GANs introduce a different loss function, namely the Wasserstein dis
 
 DCGANs utilize deep convolutional networks for both the generator and discriminator, enabling the generation of higher resolution and more realistic images.
 
+## Notebooks
+
+This repository contains Jupyter notebooks for each of the three GAN architectures:
+
+- `Vanilla_GAN.ipynb`
+- `WGAN.ipynb`
+- `DCGAN.ipynb`
+
+These notebooks provide step-by-step implementations of the respective GAN architectures along with training and evaluation procedures.
+
 ## Getting Started
 
 ### Prerequisites
