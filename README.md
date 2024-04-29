@@ -32,6 +32,12 @@ These notebooks provide step-by-step implementations of the respective GAN archi
 
 ## Results - 
 
+- DCAGNS Architecture
+![epoch_50_image_45](https://github.com/k-Rohit/Chex-GANS/assets/93335681/d046a4e0-8f49-4e06-84b8-347107539169)
+
+![epoch_50_image_46](https://github.com/k-Rohit/Chex-GANS/assets/93335681/09c93c98-7b47-41af-90f2-af03570a4666)
+
+![epoch_50_image_48](https://github.com/k-Rohit/Chex-GANS/assets/93335681/26d87470-f9e0-43d8-aa8c-2cdccdc343fd)
 
 
 ## Getting Started
