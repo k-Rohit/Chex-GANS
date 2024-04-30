@@ -33,7 +33,7 @@ These notebooks provide step-by-step implementations of the respective GAN archi
 
 ## Results
 
-## DCGAs
+## DCGANs
 
 <table>
   <tr>
