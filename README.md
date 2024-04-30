@@ -33,7 +33,7 @@ These notebooks provide step-by-step implementations of the respective GAN archi
 
 ## Results
 
-### DCGAN Architecture
+## DCGAs
 
 <table>
   <tr>
@@ -52,7 +52,12 @@ These notebooks provide step-by-step implementations of the respective GAN archi
   </tr>
 </table>
 
-
+## Vanilla GANs
+<table>
+  <tr>
+    <td><img src="https://github.com/k-Rohit/Chex-GANS/assets/93335681/f1287c2d-7806-4b60-96c6-62919e0622c6">  </td>
+  </tr>
+</table>
 
 ## Getting Started
 
