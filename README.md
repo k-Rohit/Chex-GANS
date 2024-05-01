@@ -85,7 +85,18 @@ These notebooks provide step-by-step implementations of the respective GAN archi
 <table>
   <tr>
     <td><img src="https://github.com/k-Rohit/Chex-GANS/assets/93335681/42e99747-bf5c-4cfc-9549-84d2b20ff0e5"></td>
-     <td><img src="https://github.com/k-Rohit/Chex-GANS/assets/93335681/6a32bff5-f114-40dd-8d75-956da85efc20"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/k-Rohit/Chex-GANS/assets/93335681/6a32bff5-f114-40dd-8d75-956da85efc20"></td></td>
+  </tr>
+</table>
+<td>
+
+<table>
+  <tr>
      <td><img src="https://github.com/k-Rohit/Chex-GANS/assets/93335681/dce37ca2-f5f2-4302-be0c-4484d47a699f"></td>
   </tr>
 </table>
