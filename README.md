@@ -57,6 +57,24 @@ These notebooks provide step-by-step implementations of the respective GAN archi
   </tr>
 </table>
 
+
+### Comparision Metrics
+
+#### Peak to Signal Noise Ratio
+- PSNR (Peak Signal-to-Noise Ratio)
+- PSNR is expressed in decibels (dB) and is typically used to measure the quality of reconstruction or the similarity between two images. It compares the similarity between an original image and a corrupted/reconstructed version:
+
+- Higher PSNR values indicate better quality. In image compression, a PSNR of 30 dB or higher is often perceived as good quality. However, the acceptability of a PSNR value can vary depending on the application and the viewer's perception.
+- Lower PSNR values indicate poorer reconstruction quality.
+- For generative models like GANs, which often deal with more complex image distributions or detailed textural features, achieving high PSNR can be challenging. The PSNR values you've reported (ranging from about 11.65 dB to 12.87 dB) are relatively low for traditional image processing standards but are not uncommon in scenarios involving complex image generation tasks. In these contexts, even small improvements in PSNR can be significant.
+
+#### Mean Squared Error
+- MSE measures the average squared difference between the original and reconstructed images. It provides a clear numerical indication of error quantity:
+
+- Lower MSE values are better, indicating less error between the original and the reconstructed images.
+- Higher MSE values indicate more error, suggesting a greater divergence from the original image.
+- The MSE values you've listed (ranging from 0.06 to 0.08) suggest that there is still a noticeable average difference between the generated and original images. The specific acceptability of these MSE values can vary depending on the specific application and the quality requirements.
+
 ## Getting Started
 
 ### Prerequisites
