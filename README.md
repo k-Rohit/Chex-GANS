@@ -74,6 +74,13 @@ These notebooks provide step-by-step implementations of the respective GAN archi
 - Lower MSE values are better, indicating less error between the original and the reconstructed images.
 - Higher MSE values indicate more error, suggesting a greater divergence from the original image.
 - The MSE values you've listed (ranging from 0.06 to 0.08) suggest that there is still a noticeable average difference between the generated and original images. The specific acceptability of these MSE values can vary depending on the specific application and the quality requirements.
+- 
+
+#### Structural Similarity Index (SSIM)
+- SSIM quantifies the similarity between two images, considering luminance, contrast, and structure, thus providing a comprehensive measure of image quality:
+- Higher SSIM values indicate greater similarity between the original and the reconstructed images, implying less perceptual difference.
+- Lower SSIM values suggest more dissimilarity between the original and the reconstructed images, indicating a larger perceptual gap.
+- The SSIM values provided (ranging from 0.90 to 0.95) indicate a relatively high degree of similarity between the generated and original images. However, the acceptability of these values can vary depending on the specific application and quality requirements.
 
 ## Getting Started
 
