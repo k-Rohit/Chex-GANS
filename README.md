@@ -98,13 +98,12 @@ The dataset used for this application has 4000 images containing the diseases an
 <table>
   <tr>
     <td><img src="https://github.com/k-Rohit/Chex-GANS/assets/93335681/6a32bff5-f114-40dd-8d75-956da85efc20"></td></td>
-  </tr>
 </table>
 <td>
 
 <table>
   <tr>
-     <td><img src="(https://github.com/k-Rohit/Chex-GANS/assets/93335681/2488062b-cc6c-47f6-bfeb-f796be96287b"></td>
+     <td><img src="https://github.com/k-Rohit/Chex-GANS/assets/93335681/ac354e69-0f8a-46ef-93e8-a975c6ddd52a"></td>
   </tr>
 </table>
 
