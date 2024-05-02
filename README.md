@@ -106,17 +106,6 @@ The dataset used for this application has 4000 images containing the diseases an
   </tr>
 </table>
 
-## Getting Started
-
-### Prerequisites
-
-- Python (>=3.6)
-- PyTorch
-- torchvision
-- Other dependencies (specified in requirements.txt)
-
-### Installation
-
 Clone this repository:
 
 ```bash
