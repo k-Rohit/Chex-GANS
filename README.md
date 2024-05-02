@@ -6,7 +6,7 @@ Chex-GANS is a project aimed at generating chest X-ray images using Generative A
 
 Chest X-ray images play a crucial role in diagnosing various pulmonary diseases. However, acquiring a large dataset of such images for training machine learning models can be challenging due to privacy and ethical concerns. Generative models like GANs offer a promising solution by generating synthetic images that closely resemble real chest X-rays.
 
-## GAN Architectures
+## GAN Architectures used
 
 ### Vanilla GANs
 
@@ -30,6 +30,13 @@ This repository contains Jupyter notebooks for each of the three GAN architectur
 - `DCGAN.ipynb`
 
 These notebooks provide step-by-step implementations of the respective GAN architectures along with training and evaluation procedures.
+
+## Dataset Used
+The dataset was collected from the VinBigDataset . It serves as a pivotal resource in medical imaging, focusing on chest X-ray interpretation.
+It aims to automate the localization and classification of thoracic abnormalities, bridging diagnostic accuracy gaps between urban and rural healthcare settings.
+- Total Scans: 18,000 scans encompassing diverse chest X-rays.
+- Training Set: 15,000 labelled scans for model training, annotated by seasoned radiologists and the remaining 3000 for testing.
+The dataset used for this application has 4000 images containing the diseases and 4000 images having no disease in them.
 
 ## Results
 
